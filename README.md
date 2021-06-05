@@ -1,13 +1,13 @@
-# pivxheroes
-PIVX Heroes is an NFT (Non-Fungible Token) project on the Cardano blockchain using smart contracts.
+# cryptoheroes
+Crypto Heroes is an NFT (Non-Fungible Token) project on the Cardano blockchain using smart contracts.
 
-PIVX Heroes
+Crypto Heroes
 
-The purpose of this document is to compile ideas for a PIVX Heroes NFT. The idea is to foster greater cross-pollination between the Cardano Community and the PIVX Community. It should also be used to help fund the PIVX Foundation and the work that they are doing.
+The purpose of this document is to compile ideas for a Crypto Heroes NFT. The idea is to foster greater cross-pollination between the Cardano Community and the PIVX Community. It should also be used to help fund the PIVX Foundation and the work that they are doing. (UPDATE: first do core cryptocurrency space lore and story, then do Cardano heroes packs, then PIVX heroes packs).
 
 Thus far I have contacted Marco Guerrero (Marco the Black) from the NFT Update community and Bryan Doreian (SnappySnap) from the PIVX community and have buy-in from both.
 
-Next, we need to work out some details about how it will run so that we can present it to the PIVX community and get buy-in from there. Helping to fund the project with a governance proposal should also help with bringing more of the community into the fold. We'll also need to get buy-in from the Cardano community and probably the best tool for that would be a proposal there as well once there is enough material to show proof of concept.
+Next, we need to work out some details about how it will run so that we can present it to the Cardano community and get buy-in from there. Helping to fund the project with a governance proposal should also help with bringing more of the community into the fold. We'll also need to get buy-in from the Cardano community and probably the best tool for that would be a proposal there as well once there is enough material to show proof of concept.
 
 Now, one issue might be that the limited size and participation of the community might also limit the participation and cause it to die out after the initial excitement. I see this happening with many of the NFTs that are being issued now. I expect the majority of them to die out. 80/20. 20% of the projects will suck up 80% of the market. How to be in that 20%?
 
@@ -23,7 +23,7 @@ There would also be cards related to notable events such as the funding of vario
 
 There would be no limit to the total number of cards (i.e. no total issue size). Instead, you create rarity and value by purchasing the base cards with hidden attributes and combine them to power up.
 
-This would ideally lead to a continuous supply of initial funding to the PIVX Foundation as people continue to buy more cards. Once they make the initial purchase all profits from trading in the market would be theirs.
+This would ideally lead to a continuous supply of initial funding to the Cardano Foundation, Catalyst, (and Iterative Alchemy Cardano Stake Pool) as people continue to buy more cards. Once they make the initial purchase all profits from trading in the market would be theirs.
 
 In keeping with the user choices in creating the deck they want, the objects would be tiered and this would allow for higher tier objects to override the lesser. The collector would be able to combine either two or three cards to give additional choices about the result he’s looking for.
 
@@ -37,5 +37,5 @@ Future goals include fostering strong collaboration between the Cardano project 
 
 The cards should consist of base cards for the heroes and mod cards for upgrading the hero cards. The mod cards would be the tools, weapons, clothing items, poses, colors, backgrounds, etc that custom modify the base hero card. Prismatic (RARE) would be created by the user by combining certain cards (say one of the same hero in each color). In this instance you would combine one of each color plus a prismatic 'level up' card to make a permanent unalterable Rare. If you don't use the Prismatic level up, you could trade it at a premium. Then, there will be maybe  dozen unique (gold) power ups. They would be used in a similar fashion to prismatic power ups with the same restriction that once you use them they can never be altered and can never be copied. There will always only be one unique of whatever attributes that base card held. 
 
-As for pets, it’s possible that a PIVX Pals deck could also be created that uses the same engine and technology but focuses on the pets, their toys, collars, accessories, and the like. I feel having cute little pets with an array of accessories would appeal to a certain target audience, but that the PIVX Heroes set should probably go out first to drive initial interest and prototype the technology.
+As for pets, it’s possible that a PIVX Pals deck could also be created that uses the same engine and technology but focuses on the pets, their toys, collars, accessories, and the like. I feel having cute little pets with an array of accessories would appeal to a certain target audience, but that the PIVX (Crypto) Heroes set should probably go out first to drive initial interest and prototype the technology.
 
