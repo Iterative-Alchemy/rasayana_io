@@ -1,7 +1,7 @@
-# cryptoheroes
-Crypto Heroes is an NFT (Non-Fungible Token) project on the Cardano blockchain using smart contracts.
+# Rasayana
+Rasayanas is an NFT (Non-Fungible Token) project on the Cardano blockchain using smart contracts.
 
-Crypto Heroes
+Rasayana
 
 The purpose of this document is to compile ideas for a Crypto Heroes NFT. The idea is to foster greater cross-pollination between the Cardano Community and the PIVX Community. It should also be used to help fund the PIVX Foundation and the work that they are doing. (UPDATE: first do core cryptocurrency space lore and story, then do Cardano heroes packs, then PIVX heroes packs).
 
