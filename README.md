@@ -1,5 +1,5 @@
-# Rasayana (Sanskrit for path of essence)
-Rasayana (path of essence) is an NFT-based trading card game roughly modelled after Magic The Gathering: Arena.
+# Rasayana (Sanskrit for alchemy or path of essence)
+Rasayana (alchemy/path of essence) is an NFT-based trading card game roughly modelled after Magic The Gathering: Arena.
 
 The purpose of this document is to compile ideas for a Crypto Heroes NFT. The idea is to foster greater cross-pollination between the Cardano Community and the PIVX Community. It should also be used to help fund the PIVX Foundation and the work that they are doing. (UPDATE: first do core cryptocurrency space lore and story, then do Cardano heroes packs, then PIVX heroes packs).
 
