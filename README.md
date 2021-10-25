@@ -1,4 +1,4 @@
-# Rasayana
+# Rasayana_io
 Rasayana (alchemy/path of essence) is an NFT-based computer card game who's arena mode is roughly modelled after Magic The Gathering: Arena.
 
 Target level of art and mechanics complexity is aimed for somewhere between MGT:A and Hearthstone.
